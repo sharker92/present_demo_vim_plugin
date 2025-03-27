@@ -17,4 +17,3 @@ Press `q` to exit.
 SHARKER
 teej_dv Advent of Neovim 🎄
 
-# present_demo_vim_plugin
